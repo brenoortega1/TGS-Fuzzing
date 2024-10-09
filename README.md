@@ -6,6 +6,8 @@ Este é um software simples de fuzzing de diretórios desenvolvido em Bash. Ele 
 <br/>
 ‎ 
 ## Modo de Uso
+`chmod +x TGS-Fuzzing`
+
 `./TGS-Fuzzing.sh -w <wordlist> -u <url>`
 
 <br/>
