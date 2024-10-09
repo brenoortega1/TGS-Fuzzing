@@ -12,7 +12,7 @@ Este é um software simples de fuzzing de diretórios desenvolvido em Bash. Ele 
 
 Parâmetros:
 
-‎
+
 -w: Caminho para a wordlist com os nomes dos diretórios a serem testados.
 ‎
 
