@@ -6,7 +6,7 @@ Este é um software simples de fuzzing de diretórios desenvolvido em Bash. Ele 
 <br/>
 ‎ 
 ## Modo de Uso
-`./TGS-Fuzzing.sh -w WORDLIST -u URL`
+`./TGS-Fuzzing.sh -w <wordlist> -u <url>`
 
 <br/>
 
